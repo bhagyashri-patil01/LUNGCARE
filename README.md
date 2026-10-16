@@ -1,4 +1,4 @@
-# LUNGCARE - Lung Cancer Detection System
+# LUNGCARE - Lung Cancer Detection Using CT Scan Image
 **Student Name:** Bhagyashri patil
 **PRN:** 250105051100
 
