@@ -1,3 +1,7 @@
+# LUNGCARE - Lung Cancer Detection System
+**Student Name:** Bhagyashri patil
+**PRN:** 250105051100
+
 # Dashboard Analytics Application
 
 A full-stack responsive analytics dashboard with user management, real-time notifications, data visualization, and file upload capabilities.
